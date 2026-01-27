@@ -1,0 +1,2 @@
+-- E-commerce Sales Analysis
+-- SQL queries will be added step by step
