@@ -9,7 +9,6 @@ https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 Note: The raw CSV file is not included in this repository due to size considerations.
 
-## Workflow
 
 ## Workflow
 
