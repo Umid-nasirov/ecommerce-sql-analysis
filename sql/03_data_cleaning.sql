@@ -8,3 +8,8 @@ FROM ecommerce_typed
 WHERE quantity > 0
   AND unit_price > 0
   AND invoice_no NOT LIKE 'C%';
+
+-- Cleaning impact:
+-- Before cleaning: 541909 rows
+-- After cleaning:  530104 rows
+-- Removed: ~2.18%
